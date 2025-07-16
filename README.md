@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ai-quill-scraperis-mcp-badge.png)](https://mseep.ai/app/ai-quill-scraperis-mcp)
+
 # Scraper.is MCP
 
 [![npm version](https://img.shields.io/npm/v/scraperis-mcp.svg)](https://www.npmjs.com/package/scraperis-mcp)
